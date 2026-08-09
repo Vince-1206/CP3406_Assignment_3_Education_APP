@@ -91,5 +91,5 @@ An internet connection enables the Live Dictionary card, but the learning and qu
 - [x] Persistent settings
 - [x] Teacher quiz creator
 - [x] Final testing and UI polish
-- [x]1000-word Gibbs' Reflective Cycle self-reflection
+- [x] 1000-word Gibbs' Reflective Cycle self-reflection
 - [x] Declaration of AI-Generated Material
