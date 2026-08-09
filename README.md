@@ -88,8 +88,8 @@ An internet connection enables the Live Dictionary card, but the learning and qu
 - [x] External dictionary API integration with Retrofit
 - [x] Loading, retry, caching, and offline fallback behaviour
 - [x] Starter unit and GUI tests
-- [ ] Persistent settings
-- [ ] Teacher quiz creator
-- [ ] Final testing and UI polish
-- [ ] 1000-word Gibbs' Reflective Cycle self-reflection
-- [ ] Declaration of AI-Generated Material
+- [x] Persistent settings
+- [x] Teacher quiz creator
+- [x] Final testing and UI polish
+- [x]1000-word Gibbs' Reflective Cycle self-reflection
+- [x] Declaration of AI-Generated Material
